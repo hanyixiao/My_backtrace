@@ -1,0 +1,1512 @@
+Archive member included to satisfy reference by file (symbol)
+
+c:/gcc-arm-9.2-2019.12/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(lib_a-errno.o)
+                              CMakeFiles/My_LED_Pro.elf.dir/Core/Src/syscalls.c.obj (__errno)
+c:/gcc-arm-9.2-2019.12/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(lib_a-exit.o)
+                              c:/gcc-arm-9.2-2019.12/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/crt0.o (exit)
+c:/gcc-arm-9.2-2019.12/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(lib_a-impure.o)
+                              c:/gcc-arm-9.2-2019.12/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(lib_a-exit.o) (_global_impure_ptr)
+c:/gcc-arm-9.2-2019.12/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(lib_a-init.o)
+                              c:/gcc-arm-9.2-2019.12/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/crt0.o (__libc_init_array)
+c:/gcc-arm-9.2-2019.12/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(lib_a-memset.o)
+                              c:/gcc-arm-9.2-2019.12/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/crt0.o (memset)
+
+Discarded input sections
+
+ .text          0x00000000        0x0 c:/gcc-arm-9.2-2019.12/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crti.o
+ .data          0x00000000        0x0 c:/gcc-arm-9.2-2019.12/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crti.o
+ .bss           0x00000000        0x0 c:/gcc-arm-9.2-2019.12/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crti.o
+ .data          0x00000000        0x4 c:/gcc-arm-9.2-2019.12/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crtbegin.o
+ .rodata        0x00000000       0x24 c:/gcc-arm-9.2-2019.12/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crtbegin.o
+ .text          0x00000000       0x7c c:/gcc-arm-9.2-2019.12/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/crt0.o
+ .data          0x00000000        0x0 c:/gcc-arm-9.2-2019.12/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/crt0.o
+ .bss           0x00000000        0x0 c:/gcc-arm-9.2-2019.12/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/crt0.o
+ .ARM.extab     0x00000000        0x0 c:/gcc-arm-9.2-2019.12/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/crt0.o
+ .ARM.exidx     0x00000000       0x10 c:/gcc-arm-9.2-2019.12/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/crt0.o
+ .ARM.attributes
+                0x00000000       0x1b c:/gcc-arm-9.2-2019.12/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/crt0.o
+ .text          0x00000000        0x0 CMakeFiles/My_LED_Pro.elf.dir/Core/Src/main.c.obj
+ .data          0x00000000        0x0 CMakeFiles/My_LED_Pro.elf.dir/Core/Src/main.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/My_LED_Pro.elf.dir/Core/Src/main.c.obj
+ .text          0x00000000        0x0 CMakeFiles/My_LED_Pro.elf.dir/Core/Src/stm32f1xx_hal_msp.c.obj
+ .data          0x00000000        0x0 CMakeFiles/My_LED_Pro.elf.dir/Core/Src/stm32f1xx_hal_msp.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/My_LED_Pro.elf.dir/Core/Src/stm32f1xx_hal_msp.c.obj
+ .text.HAL_TIM_Base_MspDeInit
+                0x00000000       0x30 CMakeFiles/My_LED_Pro.elf.dir/Core/Src/stm32f1xx_hal_msp.c.obj
+ .text.HAL_UART_MspDeInit
+                0x00000000       0x3c CMakeFiles/My_LED_Pro.elf.dir/Core/Src/stm32f1xx_hal_msp.c.obj
+ .text          0x00000000        0x0 CMakeFiles/My_LED_Pro.elf.dir/Core/Src/stm32f1xx_it.c.obj
+ .data          0x00000000        0x0 CMakeFiles/My_LED_Pro.elf.dir/Core/Src/stm32f1xx_it.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/My_LED_Pro.elf.dir/Core/Src/stm32f1xx_it.c.obj
+ .text          0x00000000        0x0 CMakeFiles/My_LED_Pro.elf.dir/Core/Src/syscalls.c.obj
+ .data          0x00000000        0x0 CMakeFiles/My_LED_Pro.elf.dir/Core/Src/syscalls.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/My_LED_Pro.elf.dir/Core/Src/syscalls.c.obj
+ .bss.__env     0x00000000        0x4 CMakeFiles/My_LED_Pro.elf.dir/Core/Src/syscalls.c.obj
+ .data.environ  0x00000000        0x4 CMakeFiles/My_LED_Pro.elf.dir/Core/Src/syscalls.c.obj
+ .text.initialise_monitor_handles
+                0x00000000        0xc CMakeFiles/My_LED_Pro.elf.dir/Core/Src/syscalls.c.obj
+ .text._getpid  0x00000000        0xe CMakeFiles/My_LED_Pro.elf.dir/Core/Src/syscalls.c.obj
+ .text._kill    0x00000000       0x20 CMakeFiles/My_LED_Pro.elf.dir/Core/Src/syscalls.c.obj
+ .text._exit    0x00000000       0x14 CMakeFiles/My_LED_Pro.elf.dir/Core/Src/syscalls.c.obj
+ .text._read    0x00000000       0x3a CMakeFiles/My_LED_Pro.elf.dir/Core/Src/syscalls.c.obj
+ .text._write   0x00000000       0x38 CMakeFiles/My_LED_Pro.elf.dir/Core/Src/syscalls.c.obj
+ .bss.heap_end.0
+                0x00000000        0x4 CMakeFiles/My_LED_Pro.elf.dir/Core/Src/syscalls.c.obj
+ .text._sbrk    0x00000000       0x58 CMakeFiles/My_LED_Pro.elf.dir/Core/Src/syscalls.c.obj
+ .text._close   0x00000000       0x16 CMakeFiles/My_LED_Pro.elf.dir/Core/Src/syscalls.c.obj
+ .text._fstat   0x00000000       0x1e CMakeFiles/My_LED_Pro.elf.dir/Core/Src/syscalls.c.obj
+ .text._isatty  0x00000000       0x14 CMakeFiles/My_LED_Pro.elf.dir/Core/Src/syscalls.c.obj
+ .text._lseek   0x00000000       0x18 CMakeFiles/My_LED_Pro.elf.dir/Core/Src/syscalls.c.obj
+ .text._open    0x00000000       0x1a CMakeFiles/My_LED_Pro.elf.dir/Core/Src/syscalls.c.obj
+ .text._wait    0x00000000       0x1e CMakeFiles/My_LED_Pro.elf.dir/Core/Src/syscalls.c.obj
+ .text._unlink  0x00000000       0x1e CMakeFiles/My_LED_Pro.elf.dir/Core/Src/syscalls.c.obj
+ .text._times   0x00000000       0x16 CMakeFiles/My_LED_Pro.elf.dir/Core/Src/syscalls.c.obj
+ .text._stat    0x00000000       0x1e CMakeFiles/My_LED_Pro.elf.dir/Core/Src/syscalls.c.obj
+ .text._link    0x00000000       0x20 CMakeFiles/My_LED_Pro.elf.dir/Core/Src/syscalls.c.obj
+ .text._fork    0x00000000       0x16 CMakeFiles/My_LED_Pro.elf.dir/Core/Src/syscalls.c.obj
+ .text._execve  0x00000000       0x22 CMakeFiles/My_LED_Pro.elf.dir/Core/Src/syscalls.c.obj
+ .debug_info    0x00000000      0x71a CMakeFiles/My_LED_Pro.elf.dir/Core/Src/syscalls.c.obj
+ .debug_abbrev  0x00000000      0x1a3 CMakeFiles/My_LED_Pro.elf.dir/Core/Src/syscalls.c.obj
+ .debug_aranges
+                0x00000000       0xb0 CMakeFiles/My_LED_Pro.elf.dir/Core/Src/syscalls.c.obj
+ .debug_ranges  0x00000000       0xa0 CMakeFiles/My_LED_Pro.elf.dir/Core/Src/syscalls.c.obj
+ .debug_line    0x00000000      0x388 CMakeFiles/My_LED_Pro.elf.dir/Core/Src/syscalls.c.obj
+ .debug_str     0x00000000      0x440 CMakeFiles/My_LED_Pro.elf.dir/Core/Src/syscalls.c.obj
+ .comment       0x00000000       0x4a CMakeFiles/My_LED_Pro.elf.dir/Core/Src/syscalls.c.obj
+ .debug_frame   0x00000000      0x2d0 CMakeFiles/My_LED_Pro.elf.dir/Core/Src/syscalls.c.obj
+ .ARM.attributes
+                0x00000000       0x2d CMakeFiles/My_LED_Pro.elf.dir/Core/Src/syscalls.c.obj
+ .text          0x00000000        0x0 CMakeFiles/My_LED_Pro.elf.dir/Core/Src/system_stm32f1xx.c.obj
+ .data          0x00000000        0x0 CMakeFiles/My_LED_Pro.elf.dir/Core/Src/system_stm32f1xx.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/My_LED_Pro.elf.dir/Core/Src/system_stm32f1xx.c.obj
+ .text.SystemCoreClockUpdate
+                0x00000000       0xe4 CMakeFiles/My_LED_Pro.elf.dir/Core/Src/system_stm32f1xx.c.obj
+ .text          0x00000000        0x0 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .data          0x00000000        0x0 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .text.HAL_DeInit
+                0x00000000       0x30 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .text.HAL_MspInit
+                0x00000000        0xc CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .text.HAL_MspDeInit
+                0x00000000        0xc CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .text.HAL_GetTickPrio
+                0x00000000       0x14 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .text.HAL_SetTickFreq
+                0x00000000       0x50 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .text.HAL_GetTickFreq
+                0x00000000       0x14 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .text.HAL_Delay
+                0x00000000       0x48 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .text.HAL_SuspendTick
+                0x00000000       0x1c CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .text.HAL_ResumeTick
+                0x00000000       0x1c CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .text.HAL_GetHalVersion
+                0x00000000       0x14 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .text.HAL_GetREVID
+                0x00000000       0x18 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .text.HAL_GetDEVID
+                0x00000000       0x18 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .text.HAL_GetUIDw0
+                0x00000000       0x14 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .text.HAL_GetUIDw1
+                0x00000000       0x14 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .text.HAL_GetUIDw2
+                0x00000000       0x14 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .text.HAL_DBGMCU_EnableDBGSleepMode
+                0x00000000       0x1c CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .text.HAL_DBGMCU_DisableDBGSleepMode
+                0x00000000       0x1c CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .text.HAL_DBGMCU_EnableDBGStopMode
+                0x00000000       0x1c CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .text.HAL_DBGMCU_DisableDBGStopMode
+                0x00000000       0x1c CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .text.HAL_DBGMCU_EnableDBGStandbyMode
+                0x00000000       0x1c CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .text.HAL_DBGMCU_DisableDBGStandbyMode
+                0x00000000       0x1c CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .text          0x00000000        0x0 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .data          0x00000000        0x0 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .text.__NVIC_EnableIRQ
+                0x00000000       0x38 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .text.__NVIC_DisableIRQ
+                0x00000000       0x48 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .text.__NVIC_GetPendingIRQ
+                0x00000000       0x40 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .text.__NVIC_SetPendingIRQ
+                0x00000000       0x3c CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .text.__NVIC_ClearPendingIRQ
+                0x00000000       0x3c CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .text.__NVIC_GetActive
+                0x00000000       0x40 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .text.__NVIC_GetPriority
+                0x00000000       0x4c CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .text.NVIC_DecodePriority
+                0x00000000       0x6c CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .text.__NVIC_SystemReset
+                0x00000000       0x2c CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .text.HAL_NVIC_EnableIRQ
+                0x00000000       0x1c CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .text.HAL_NVIC_DisableIRQ
+                0x00000000       0x1c CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .text.HAL_NVIC_SystemReset
+                0x00000000        0x8 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .text.HAL_NVIC_GetPriorityGrouping
+                0x00000000        0xe CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .text.HAL_NVIC_GetPriority
+                0x00000000       0x2c CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .text.HAL_NVIC_SetPendingIRQ
+                0x00000000       0x1c CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .text.HAL_NVIC_GetPendingIRQ
+                0x00000000       0x1e CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .text.HAL_NVIC_ClearPendingIRQ
+                0x00000000       0x1c CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .text.HAL_NVIC_GetActive
+                0x00000000       0x1e CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .text.HAL_SYSTICK_CLKSourceConfig
+                0x00000000       0x38 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .text.HAL_SYSTICK_IRQHandler
+                0x00000000        0xc CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .text.HAL_SYSTICK_Callback
+                0x00000000        0xc CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .text          0x00000000        0x0 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+ .data          0x00000000        0x0 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+ .text.HAL_DMA_Init
+                0x00000000       0xb4 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+ .text.HAL_DMA_DeInit
+                0x00000000       0xb8 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+ .text.HAL_DMA_Start
+                0x00000000       0x86 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+ .text.HAL_DMA_Start_IT
+                0x00000000       0xc0 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+ .text.HAL_DMA_Abort
+                0x00000000       0x76 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+ .text.HAL_DMA_Abort_IT
+                0x00000000       0xf0 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+ .text.HAL_DMA_PollForTransfer
+                0x00000000      0x324 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+ .text.HAL_DMA_IRQHandler
+                0x00000000      0x20c CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+ .text.HAL_DMA_RegisterCallback
+                0x00000000       0x90 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+ .text.HAL_DMA_UnRegisterCallback
+                0x00000000       0xac CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+ .text.HAL_DMA_GetState
+                0x00000000       0x1a CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+ .text.HAL_DMA_GetError
+                0x00000000       0x16 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+ .text.DMA_SetConfig
+                0x00000000       0x5a CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+ .debug_info    0x00000000      0x72c CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+ .debug_abbrev  0x00000000      0x1e6 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+ .debug_aranges
+                0x00000000       0x80 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+ .debug_ranges  0x00000000       0x70 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+ .debug_line    0x00000000      0x90b CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+ .debug_str     0x00000000      0x633 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+ .comment       0x00000000       0x4a CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+ .debug_frame   0x00000000      0x208 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+ .ARM.attributes
+                0x00000000       0x2d CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+ .text          0x00000000        0x0 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj
+ .data          0x00000000        0x0 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj
+ .text.HAL_EXTI_SetConfigLine
+                0x00000000      0x14c CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj
+ .text.HAL_EXTI_GetConfigLine
+                0x00000000       0xf0 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj
+ .text.HAL_EXTI_ClearConfigLine
+                0x00000000       0xc0 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj
+ .text.HAL_EXTI_RegisterCallback
+                0x00000000       0x32 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj
+ .text.HAL_EXTI_GetHandle
+                0x00000000       0x26 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj
+ .text.HAL_EXTI_IRQHandler
+                0x00000000       0x48 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj
+ .text.HAL_EXTI_GetPending
+                0x00000000       0x40 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj
+ .text.HAL_EXTI_ClearPending
+                0x00000000       0x30 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj
+ .text.HAL_EXTI_GenerateSWI
+                0x00000000       0x2c CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj
+ .debug_info    0x00000000      0x538 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj
+ .debug_abbrev  0x00000000      0x1b2 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj
+ .debug_aranges
+                0x00000000       0x60 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj
+ .debug_ranges  0x00000000       0x50 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj
+ .debug_line    0x00000000      0x4cc CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj
+ .debug_str     0x00000000      0x418 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj
+ .comment       0x00000000       0x4a CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj
+ .debug_frame   0x00000000      0x174 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj
+ .ARM.attributes
+                0x00000000       0x2d CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj
+ .text          0x00000000        0x0 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+ .data          0x00000000        0x0 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+ .bss.pFlash    0x00000000       0x20 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+ .text.HAL_FLASH_Program
+                0x00000000       0xe0 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+ .text.HAL_FLASH_Program_IT
+                0x00000000       0x90 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+ .text.HAL_FLASH_IRQHandler
+                0x00000000      0x1c8 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+ .text.HAL_FLASH_EndOfOperationCallback
+                0x00000000       0x12 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+ .text.HAL_FLASH_OperationErrorCallback
+                0x00000000       0x12 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+ .text.HAL_FLASH_Unlock
+                0x00000000       0x4c CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+ .text.HAL_FLASH_Lock
+                0x00000000       0x20 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+ .text.HAL_FLASH_OB_Unlock
+                0x00000000       0x38 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+ .text.HAL_FLASH_OB_Lock
+                0x00000000       0x20 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+ .text.HAL_FLASH_OB_Launch
+                0x00000000        0xc CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+ .text.HAL_FLASH_GetError
+                0x00000000       0x14 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+ .text.FLASH_Program_HalfWord
+                0x00000000       0x38 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+ .text.FLASH_WaitForLastOperation
+                0x00000000       0x8c CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+ .text.FLASH_SetErrorCode
+                0x00000000       0xa0 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+ .debug_info    0x00000000      0x514 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+ .debug_abbrev  0x00000000      0x1fc CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+ .debug_aranges
+                0x00000000       0x88 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+ .debug_ranges  0x00000000       0x78 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+ .debug_line    0x00000000      0x591 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+ .debug_str     0x00000000      0x540 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+ .comment       0x00000000       0x4a CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+ .debug_frame   0x00000000      0x20c CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+ .ARM.attributes
+                0x00000000       0x2d CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+ .text          0x00000000        0x0 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .data          0x00000000        0x0 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .text.HAL_FLASHEx_Erase
+                0x00000000       0xd8 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .text.HAL_FLASHEx_Erase_IT
+                0x00000000       0x84 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .text.HAL_FLASHEx_OBErase
+                0x00000000       0x84 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .text.HAL_FLASHEx_OBProgram
+                0x00000000       0xf8 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .text.HAL_FLASHEx_OBGetConfig
+                0x00000000       0x38 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .text.HAL_FLASHEx_OBGetUserData
+                0x00000000       0x40 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .text.FLASH_MassErase
+                0x00000000       0x38 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .text.FLASH_OB_EnableWRP
+                0x00000000      0x144 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .text.FLASH_OB_DisableWRP
+                0x00000000      0x140 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .text.FLASH_OB_RDP_LevelConfig
+                0x00000000       0xa0 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .text.FLASH_OB_UserConfig
+                0x00000000       0x70 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .text.FLASH_OB_ProgramData
+                0x00000000       0x68 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .text.FLASH_OB_GetWRP
+                0x00000000       0x14 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .text.FLASH_OB_GetRDP
+                0x00000000       0x38 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .text.FLASH_OB_GetUser
+                0x00000000       0x20 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .text.FLASH_PageErase
+                0x00000000       0x40 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .debug_info    0x00000000      0x7c3 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .debug_abbrev  0x00000000      0x21a CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .debug_aranges
+                0x00000000       0x98 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .debug_ranges  0x00000000       0x88 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .debug_line    0x00000000      0x68d CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .debug_str     0x00000000      0x66c CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .comment       0x00000000       0x4a CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .debug_frame   0x00000000      0x258 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .ARM.attributes
+                0x00000000       0x2d CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .text          0x00000000        0x0 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+ .data          0x00000000        0x0 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+ .text.HAL_GPIO_DeInit
+                0x00000000      0x178 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+ .text.HAL_GPIO_ReadPin
+                0x00000000       0x2e CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+ .text.HAL_GPIO_TogglePin
+                0x00000000       0x32 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+ .text.HAL_GPIO_LockPin
+                0x00000000       0x4e CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+ .text.HAL_GPIO_EXTI_IRQHandler
+                0x00000000       0x30 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+ .text.HAL_GPIO_EXTI_Callback
+                0x00000000       0x14 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+ .text          0x00000000        0x0 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c.obj
+ .data          0x00000000        0x0 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c.obj
+ .text.HAL_GPIOEx_ConfigEventout
+                0x00000000       0x2c CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c.obj
+ .text.HAL_GPIOEx_EnableEventout
+                0x00000000       0x1c CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c.obj
+ .text.HAL_GPIOEx_DisableEventout
+                0x00000000       0x1c CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c.obj
+ .debug_info    0x00000000      0x151 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c.obj
+ .debug_abbrev  0x00000000       0xc6 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c.obj
+ .debug_aranges
+                0x00000000       0x30 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c.obj
+ .debug_ranges  0x00000000       0x20 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c.obj
+ .debug_line    0x00000000      0x1bd CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c.obj
+ .debug_str     0x00000000      0x299 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c.obj
+ .comment       0x00000000       0x4a CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c.obj
+ .debug_frame   0x00000000       0x78 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c.obj
+ .ARM.attributes
+                0x00000000       0x2d CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c.obj
+ .text          0x00000000        0x0 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .data          0x00000000        0x0 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .text.PWR_OverloadWfe
+                0x00000000       0x10 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .text.HAL_PWR_DeInit
+                0x00000000       0x28 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .text.HAL_PWR_EnableBkUpAccess
+                0x00000000       0x18 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .text.HAL_PWR_DisableBkUpAccess
+                0x00000000       0x18 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .text.HAL_PWR_ConfigPVD
+                0x00000000       0xbc CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .text.HAL_PWR_EnablePVD
+                0x00000000       0x18 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .text.HAL_PWR_DisablePVD
+                0x00000000       0x18 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .text.HAL_PWR_EnableWakeUpPin
+                0x00000000       0x38 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .text.HAL_PWR_DisableWakeUpPin
+                0x00000000       0x38 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .text.HAL_PWR_EnterSLEEPMode
+                0x00000000       0x38 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .text.HAL_PWR_EnterSTOPMode
+                0x00000000       0x64 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .text.HAL_PWR_EnterSTANDBYMode
+                0x00000000       0x30 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .text.HAL_PWR_EnableSleepOnExit
+                0x00000000       0x1c CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .text.HAL_PWR_DisableSleepOnExit
+                0x00000000       0x1c CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .text.HAL_PWR_EnableSEVOnPend
+                0x00000000       0x1c CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .text.HAL_PWR_DisableSEVOnPend
+                0x00000000       0x1c CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .text.HAL_PWR_PVD_IRQHandler
+                0x00000000       0x24 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .text.HAL_PWR_PVDCallback
+                0x00000000        0xc CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .debug_info    0x00000000      0x651 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .debug_abbrev  0x00000000      0x1ea CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .debug_aranges
+                0x00000000       0xa8 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .debug_ranges  0x00000000       0x98 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .debug_line    0x00000000      0x47d CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .debug_str     0x00000000      0x4dd CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .comment       0x00000000       0x4a CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .debug_frame   0x00000000      0x270 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .ARM.attributes
+                0x00000000       0x2d CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .text          0x00000000        0x0 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+ .data          0x00000000        0x0 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+ .text.HAL_RCC_DeInit
+                0x00000000      0x134 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+ .text.HAL_RCC_MCOConfig
+                0x00000000       0x70 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+ .text.HAL_RCC_EnableCSS
+                0x00000000       0x18 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+ .text.HAL_RCC_DisableCSS
+                0x00000000       0x18 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+ .text.HAL_RCC_GetOscConfig
+                0x00000000      0x104 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+ .text.HAL_RCC_GetClockConfig
+                0x00000000       0x60 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+ .text.HAL_RCC_NMI_IRQHandler
+                0x00000000       0x28 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+ .text.HAL_RCC_CSSCallback
+                0x00000000        0xc CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+ .text          0x00000000        0x0 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.obj
+ .data          0x00000000        0x0 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.obj
+ .text.HAL_RCCEx_PeriphCLKConfig
+                0x00000000      0x16c CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.obj
+ .text.HAL_RCCEx_GetPeriphCLKConfig
+                0x00000000       0x60 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.obj
+ .text.HAL_RCCEx_GetPeriphCLKFreq
+                0x00000000      0x16c CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.obj
+ .rodata.aPLLMULFactorTable.1
+                0x00000000       0x10 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.obj
+ .rodata.aPredivFactorTable.0
+                0x00000000        0x2 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.obj
+ .debug_info    0x00000000      0x3c1 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.obj
+ .debug_abbrev  0x00000000      0x16a CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.obj
+ .debug_aranges
+                0x00000000       0x30 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.obj
+ .debug_ranges  0x00000000       0x20 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.obj
+ .debug_line    0x00000000      0x3fc CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.obj
+ .debug_str     0x00000000      0x3f4 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.obj
+ .comment       0x00000000       0x4a CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.obj
+ .debug_frame   0x00000000       0x80 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.obj
+ .ARM.attributes
+                0x00000000       0x2d CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.obj
+ .text          0x00000000        0x0 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .data          0x00000000        0x0 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.HAL_TIM_Base_DeInit
+                0x00000000       0xa8 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.HAL_TIM_Base_MspInit
+                0x00000000       0x12 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.HAL_TIM_Base_MspDeInit
+                0x00000000       0x12 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.HAL_TIM_Base_Start
+                0x00000000       0x94 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.HAL_TIM_Base_Stop
+                0x00000000       0x4c CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.HAL_TIM_Base_Start_IT
+                0x00000000       0xa4 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.HAL_TIM_Base_Stop_IT
+                0x00000000       0x5c CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.HAL_TIM_Base_Start_DMA
+                0x00000000      0x10c CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.HAL_TIM_Base_Stop_DMA
+                0x00000000       0x64 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.HAL_TIM_OC_Init
+                0x00000000       0x9e CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.HAL_TIM_OC_DeInit
+                0x00000000       0xa8 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.HAL_TIM_OC_MspInit
+                0x00000000       0x12 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.HAL_TIM_OC_MspDeInit
+                0x00000000       0x12 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.HAL_TIM_OC_Start
+                0x00000000      0x144 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.HAL_TIM_OC_Stop
+                0x00000000       0xc8 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.HAL_TIM_OC_Start_IT
+                0x00000000      0x1e0 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.HAL_TIM_OC_Stop_IT
+                0x00000000      0x164 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.HAL_TIM_OC_Start_DMA
+                0x00000000      0x344 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.HAL_TIM_OC_Stop_DMA
+                0x00000000      0x18c CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.HAL_TIM_PWM_Init
+                0x00000000       0x9e CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.HAL_TIM_PWM_DeInit
+                0x00000000       0xa8 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.HAL_TIM_PWM_MspInit
+                0x00000000       0x12 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.HAL_TIM_PWM_MspDeInit
+                0x00000000       0x12 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.HAL_TIM_PWM_Start
+                0x00000000      0x144 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.HAL_TIM_PWM_Stop
+                0x00000000       0xc8 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.HAL_TIM_PWM_Start_IT
+                0x00000000      0x1e0 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.HAL_TIM_PWM_Stop_IT
+                0x00000000      0x164 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.HAL_TIM_PWM_Start_DMA
+                0x00000000      0x344 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.HAL_TIM_PWM_Stop_DMA
+                0x00000000      0x18c CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.HAL_TIM_IC_Init
+                0x00000000       0x9e CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.HAL_TIM_IC_DeInit
+                0x00000000       0xa8 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.HAL_TIM_IC_MspInit
+                0x00000000       0x12 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.HAL_TIM_IC_MspDeInit
+                0x00000000       0x12 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.HAL_TIM_IC_Start
+                0x00000000      0x180 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.HAL_TIM_IC_Stop
+                0x00000000       0xc2 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.HAL_TIM_IC_Start_IT
+                0x00000000      0x218 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.HAL_TIM_IC_Stop_IT
+                0x00000000      0x15c CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.HAL_TIM_IC_Start_DMA
+                0x00000000      0x31c CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.HAL_TIM_IC_Stop_DMA
+                0x00000000      0x184 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.HAL_TIM_OnePulse_Init
+                0x00000000       0xa0 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.HAL_TIM_OnePulse_DeInit
+                0x00000000       0x88 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.HAL_TIM_OnePulse_MspInit
+                0x00000000       0x12 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.HAL_TIM_OnePulse_MspDeInit
+                0x00000000       0x12 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.HAL_TIM_OnePulse_Start
+                0x00000000       0xac CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.HAL_TIM_OnePulse_Stop
+                0x00000000       0xc0 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.HAL_TIM_OnePulse_Start_IT
+                0x00000000       0xcc CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.HAL_TIM_OnePulse_Stop_IT
+                0x00000000       0xe0 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.HAL_TIM_Encoder_Init
+                0x00000000      0x144 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.HAL_TIM_Encoder_DeInit
+                0x00000000       0x88 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.HAL_TIM_Encoder_MspInit
+                0x00000000       0x12 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.HAL_TIM_Encoder_MspDeInit
+                0x00000000       0x12 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.HAL_TIM_Encoder_Start
+                0x00000000      0x11c CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.HAL_TIM_Encoder_Stop
+                0x00000000      0x12e CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.HAL_TIM_Encoder_Start_IT
+                0x00000000      0x15c CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.HAL_TIM_Encoder_Stop_IT
+                0x00000000      0x16a CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.HAL_TIM_Encoder_Start_DMA
+                0x00000000      0x2d8 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.HAL_TIM_Encoder_Stop_DMA
+                0x00000000      0x192 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.HAL_TIM_IRQHandler
+                0x00000000      0x210 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.HAL_TIM_OC_ConfigChannel
+                0x00000000       0xb8 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.HAL_TIM_IC_ConfigChannel
+                0x00000000      0x138 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.HAL_TIM_PWM_ConfigChannel
+                0x00000000      0x184 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.HAL_TIM_OnePulse_ConfigChannel
+                0x00000000      0x1a6 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.HAL_TIM_DMABurst_WriteStart
+                0x00000000       0x34 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.HAL_TIM_DMABurst_MultiWriteStart
+                0x00000000      0x2a8 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.HAL_TIM_DMABurst_WriteStop
+                0x00000000       0xf4 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.HAL_TIM_DMABurst_ReadStart
+                0x00000000       0x34 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.HAL_TIM_DMABurst_MultiReadStart
+                0x00000000      0x2a8 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.HAL_TIM_DMABurst_ReadStop
+                0x00000000       0xf4 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.HAL_TIM_GenerateEvent
+                0x00000000       0x4c CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.HAL_TIM_ConfigOCrefClear
+                0x00000000      0x19c CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.HAL_TIM_ConfigTI1Input
+                0x00000000       0x36 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.HAL_TIM_SlaveConfigSynchro_IT
+                0x00000000       0x84 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.HAL_TIM_ReadCapturedValue
+                0x00000000       0x88 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.HAL_TIM_PeriodElapsedCallback
+                0x00000000       0x12 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.HAL_TIM_PeriodElapsedHalfCpltCallback
+                0x00000000       0x12 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.HAL_TIM_OC_DelayElapsedCallback
+                0x00000000       0x12 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.HAL_TIM_IC_CaptureCallback
+                0x00000000       0x12 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.HAL_TIM_IC_CaptureHalfCpltCallback
+                0x00000000       0x12 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.HAL_TIM_PWM_PulseFinishedCallback
+                0x00000000       0x12 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.HAL_TIM_PWM_PulseFinishedHalfCpltCallback
+                0x00000000       0x12 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.HAL_TIM_TriggerCallback
+                0x00000000       0x12 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.HAL_TIM_TriggerHalfCpltCallback
+                0x00000000       0x12 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.HAL_TIM_ErrorCallback
+                0x00000000       0x12 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.HAL_TIM_Base_GetState
+                0x00000000       0x1a CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.HAL_TIM_OC_GetState
+                0x00000000       0x1a CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.HAL_TIM_PWM_GetState
+                0x00000000       0x1a CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.HAL_TIM_IC_GetState
+                0x00000000       0x1a CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.HAL_TIM_OnePulse_GetState
+                0x00000000       0x1a CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.HAL_TIM_Encoder_GetState
+                0x00000000       0x1a CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.HAL_TIM_GetActiveChannel
+                0x00000000       0x16 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.HAL_TIM_GetChannelState
+                0x00000000       0x50 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.HAL_TIM_DMABurstState
+                0x00000000       0x1a CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.TIM_DMAError
+                0x00000000       0x92 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.TIM_DMADelayPulseCplt
+                0x00000000       0xa8 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.TIM_DMADelayPulseHalfCplt
+                0x00000000       0x68 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.TIM_DMACaptureCplt
+                0x00000000       0xc8 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.TIM_DMACaptureHalfCplt
+                0x00000000       0x68 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.TIM_DMAPeriodElapsedCplt
+                0x00000000       0x2e CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.TIM_DMAPeriodElapsedHalfCplt
+                0x00000000       0x1c CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.TIM_DMATriggerCplt
+                0x00000000       0x2e CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.TIM_DMATriggerHalfCplt
+                0x00000000       0x1c CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.TIM_OC1_SetConfig
+                0x00000000       0xcc CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.TIM_OC2_SetConfig
+                0x00000000       0xd4 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.TIM_OC3_SetConfig
+                0x00000000       0xd4 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.TIM_OC4_SetConfig
+                0x00000000       0x9c CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.TIM_TI1_SetConfig
+                0x00000000       0xb4 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.TIM_TI2_SetConfig
+                0x00000000       0x78 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.TIM_TI3_SetConfig
+                0x00000000       0x76 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.TIM_TI4_SetConfig
+                0x00000000       0x78 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.TIM_CCxChannelCmd
+                0x00000000       0x48 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text          0x00000000        0x0 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
+ .data          0x00000000        0x0 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
+ .text.HAL_TIMEx_HallSensor_Init
+                0x00000000      0x152 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
+ .text.HAL_TIMEx_HallSensor_DeInit
+                0x00000000       0x88 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
+ .text.HAL_TIMEx_HallSensor_MspInit
+                0x00000000       0x12 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
+ .text.HAL_TIMEx_HallSensor_MspDeInit
+                0x00000000       0x12 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
+ .text.HAL_TIMEx_HallSensor_Start
+                0x00000000       0xe4 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
+ .text.HAL_TIMEx_HallSensor_Stop
+                0x00000000       0x70 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
+ .text.HAL_TIMEx_HallSensor_Start_IT
+                0x00000000       0xf4 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
+ .text.HAL_TIMEx_HallSensor_Stop_IT
+                0x00000000       0x80 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
+ .text.HAL_TIMEx_HallSensor_Start_DMA
+                0x00000000      0x134 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
+ .text.HAL_TIMEx_HallSensor_Stop_DMA
+                0x00000000       0x7a CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
+ .text.HAL_TIMEx_OCN_Start
+                0x00000000      0x13c CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
+ .text.HAL_TIMEx_OCN_Stop
+                0x00000000       0xba CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
+ .text.HAL_TIMEx_OCN_Start_IT
+                0x00000000      0x1ac CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
+ .text.HAL_TIMEx_OCN_Stop_IT
+                0x00000000      0x13e CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
+ .text.HAL_TIMEx_OCN_Start_DMA
+                0x00000000      0x2c8 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
+ .text.HAL_TIMEx_OCN_Stop_DMA
+                0x00000000      0x138 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
+ .text.HAL_TIMEx_PWMN_Start
+                0x00000000      0x13c CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
+ .text.HAL_TIMEx_PWMN_Stop
+                0x00000000       0xba CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
+ .text.HAL_TIMEx_PWMN_Start_IT
+                0x00000000      0x1ac CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
+ .text.HAL_TIMEx_PWMN_Stop_IT
+                0x00000000      0x13e CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
+ .text.HAL_TIMEx_PWMN_Start_DMA
+                0x00000000      0x2c8 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
+ .text.HAL_TIMEx_PWMN_Stop_DMA
+                0x00000000      0x138 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
+ .text.HAL_TIMEx_OnePulseN_Start
+                0x00000000       0xaa CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
+ .text.HAL_TIMEx_OnePulseN_Stop
+                0x00000000       0xbe CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
+ .text.HAL_TIMEx_OnePulseN_Start_IT
+                0x00000000       0xca CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
+ .text.HAL_TIMEx_OnePulseN_Stop_IT
+                0x00000000       0xde CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
+ .text.HAL_TIMEx_ConfigCommutEvent
+                0x00000000       0xbe CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
+ .text.HAL_TIMEx_ConfigCommutEvent_IT
+                0x00000000       0xbe CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
+ .text.HAL_TIMEx_ConfigCommutEvent_DMA
+                0x00000000       0xe4 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
+ .text.HAL_TIMEx_ConfigBreakDeadTime
+                0x00000000       0xa2 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
+ .text.HAL_TIMEx_RemapConfig
+                0x00000000       0x16 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
+ .text.HAL_TIMEx_CommutCallback
+                0x00000000       0x12 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
+ .text.HAL_TIMEx_CommutHalfCpltCallback
+                0x00000000       0x12 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
+ .text.HAL_TIMEx_BreakCallback
+                0x00000000       0x12 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
+ .text.HAL_TIMEx_HallSensor_GetState
+                0x00000000       0x1a CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
+ .text.HAL_TIMEx_GetChannelNState
+                0x00000000       0x50 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
+ .text.TIMEx_DMACommutationCplt
+                0x00000000       0x24 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
+ .text.TIMEx_DMACommutationHalfCplt
+                0x00000000       0x24 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
+ .text.TIM_DMADelayPulseNCplt
+                0x00000000       0xa8 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
+ .text.TIM_DMAErrorCCxN
+                0x00000000       0x6e CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
+ .text.TIM_CCxNChannelCmd
+                0x00000000       0x48 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
+ .text          0x00000000        0x0 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .data          0x00000000        0x0 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .text.HAL_HalfDuplex_Init
+                0x00000000       0xb0 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .text.HAL_LIN_Init
+                0x00000000       0xd2 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .text.HAL_MultiProcessor_Init
+                0x00000000       0xe6 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .text.HAL_UART_DeInit
+                0x00000000       0x64 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .text.HAL_UART_MspInit
+                0x00000000       0x12 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .text.HAL_UART_MspDeInit
+                0x00000000       0x12 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .text.HAL_UART_Transmit
+                0x00000000      0x106 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .text.HAL_UART_Receive
+                0x00000000      0x124 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .text.HAL_UART_Transmit_IT
+                0x00000000       0x6a CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .text.HAL_UART_Receive_IT
+                0x00000000       0x4a CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .text.HAL_UART_Transmit_DMA
+                0x00000000       0xe0 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .text.HAL_UART_Receive_DMA
+                0x00000000       0x4a CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .text.HAL_UART_DMAPause
+                0x00000000      0x138 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .text.HAL_UART_DMAResume
+                0x00000000      0x11a CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .text.HAL_UART_DMAStop
+                0x00000000       0xfe CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .text.HAL_UARTEx_ReceiveToIdle
+                0x00000000      0x1a8 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .text.HAL_UARTEx_ReceiveToIdle_IT
+                0x00000000       0xba CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .text.HAL_UARTEx_ReceiveToIdle_DMA
+                0x00000000       0xba CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .text.HAL_UARTEx_GetRxEventType
+                0x00000000       0x16 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .text.HAL_UART_Abort
+                0x00000000      0x1d6 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .text.HAL_UART_AbortTransmit
+                0x00000000       0xd0 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .text.HAL_UART_AbortReceive
+                0x00000000      0x146 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .text.HAL_UART_Abort_IT
+                0x00000000      0x228 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .text.HAL_UART_AbortTransmit_IT
+                0x00000000       0xe8 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .text.HAL_UART_AbortReceive_IT
+                0x00000000      0x164 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .text.HAL_UART_IRQHandler
+                0x00000000      0x524 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .text.HAL_UART_TxCpltCallback
+                0x00000000       0x12 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .text.HAL_UART_TxHalfCpltCallback
+                0x00000000       0x12 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .text.HAL_UART_RxCpltCallback
+                0x00000000       0x12 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .text.HAL_UART_RxHalfCpltCallback
+                0x00000000       0x12 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .text.HAL_UART_ErrorCallback
+                0x00000000       0x12 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .text.HAL_UART_AbortCpltCallback
+                0x00000000       0x12 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .text.HAL_UART_AbortTransmitCpltCallback
+                0x00000000       0x12 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .text.HAL_UART_AbortReceiveCpltCallback
+                0x00000000       0x12 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .text.HAL_UARTEx_RxEventCallback
+                0x00000000       0x16 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .text.HAL_LIN_SendBreak
+                0x00000000       0x76 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .text.HAL_MultiProcessor_EnterMuteMode
+                0x00000000       0x7c CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .text.HAL_MultiProcessor_ExitMuteMode
+                0x00000000       0x7c CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .text.HAL_HalfDuplex_EnableTransmitter
+                0x00000000       0x66 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .text.HAL_HalfDuplex_EnableReceiver
+                0x00000000       0x66 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .text.HAL_UART_GetState
+                0x00000000       0x3a CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .text.HAL_UART_GetError
+                0x00000000       0x16 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .text.UART_DMATransmitCplt
+                0x00000000       0x9a CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .text.UART_DMATxHalfCplt
+                0x00000000       0x1c CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .text.UART_DMAReceiveCplt
+                0x00000000      0x12c CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .text.UART_DMARxHalfCplt
+                0x00000000       0x3c CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .text.UART_DMAError
+                0x00000000       0x94 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .text.UART_WaitOnFlagUntilTimeout
+                0x00000000       0xdc CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .text.UART_Start_Receive_IT
+                0x00000000       0x72 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .text.UART_Start_Receive_DMA
+                0x00000000      0x134 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .text.UART_EndTxTransfer
+                0x00000000       0x4e CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .text.UART_EndRxTransfer
+                0x00000000       0xc4 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .text.UART_DMAAbortOnError
+                0x00000000       0x28 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .text.UART_DMATxAbortCallback
+                0x00000000       0x60 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .text.UART_DMARxAbortCallback
+                0x00000000       0x60 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .text.UART_DMATxOnlyAbortCallback
+                0x00000000       0x2a CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .text.UART_DMARxOnlyAbortCallback
+                0x00000000       0x30 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .text.UART_Transmit_IT
+                0x00000000       0x9e CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .text.UART_EndTransmit_IT
+                0x00000000       0x30 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .text.UART_Receive_IT
+                0x00000000      0x17c CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .text          0x00000000       0x14 CMakeFiles/My_LED_Pro.elf.dir/startup/startup_stm32f103xb.s.obj
+ .data          0x00000000        0x0 CMakeFiles/My_LED_Pro.elf.dir/startup/startup_stm32f103xb.s.obj
+ .bss           0x00000000        0x0 CMakeFiles/My_LED_Pro.elf.dir/startup/startup_stm32f103xb.s.obj
+ .text          0x00000000        0x0 c:/gcc-arm-9.2-2019.12/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(lib_a-errno.o)
+ .data          0x00000000        0x0 c:/gcc-arm-9.2-2019.12/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(lib_a-errno.o)
+ .bss           0x00000000        0x0 c:/gcc-arm-9.2-2019.12/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(lib_a-errno.o)
+ .text.__errno  0x00000000        0xc c:/gcc-arm-9.2-2019.12/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(lib_a-errno.o)
+ .debug_frame   0x00000000       0x20 c:/gcc-arm-9.2-2019.12/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(lib_a-errno.o)
+ .ARM.attributes
+                0x00000000       0x2d c:/gcc-arm-9.2-2019.12/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(lib_a-errno.o)
+ .text          0x00000000        0x0 c:/gcc-arm-9.2-2019.12/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(lib_a-exit.o)
+ .data          0x00000000        0x0 c:/gcc-arm-9.2-2019.12/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(lib_a-exit.o)
+ .bss           0x00000000        0x0 c:/gcc-arm-9.2-2019.12/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(lib_a-exit.o)
+ .text.exit     0x00000000       0x28 c:/gcc-arm-9.2-2019.12/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(lib_a-exit.o)
+ .debug_frame   0x00000000       0x28 c:/gcc-arm-9.2-2019.12/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(lib_a-exit.o)
+ .ARM.attributes
+                0x00000000       0x2d c:/gcc-arm-9.2-2019.12/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(lib_a-exit.o)
+ .text          0x00000000        0x0 c:/gcc-arm-9.2-2019.12/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(lib_a-impure.o)
+ .data          0x00000000        0x0 c:/gcc-arm-9.2-2019.12/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(lib_a-impure.o)
+ .bss           0x00000000        0x0 c:/gcc-arm-9.2-2019.12/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(lib_a-impure.o)
+ .data._impure_ptr
+                0x00000000        0x4 c:/gcc-arm-9.2-2019.12/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(lib_a-impure.o)
+ .data.impure_data
+                0x00000000       0x60 c:/gcc-arm-9.2-2019.12/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(lib_a-impure.o)
+ .rodata._global_impure_ptr
+                0x00000000        0x4 c:/gcc-arm-9.2-2019.12/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(lib_a-impure.o)
+ .ARM.attributes
+                0x00000000       0x2d c:/gcc-arm-9.2-2019.12/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(lib_a-impure.o)
+ .text          0x00000000        0x0 c:/gcc-arm-9.2-2019.12/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(lib_a-init.o)
+ .data          0x00000000        0x0 c:/gcc-arm-9.2-2019.12/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(lib_a-init.o)
+ .bss           0x00000000        0x0 c:/gcc-arm-9.2-2019.12/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(lib_a-init.o)
+ .text          0x00000000        0x0 c:/gcc-arm-9.2-2019.12/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(lib_a-memset.o)
+ .data          0x00000000        0x0 c:/gcc-arm-9.2-2019.12/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(lib_a-memset.o)
+ .bss           0x00000000        0x0 c:/gcc-arm-9.2-2019.12/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(lib_a-memset.o)
+ .text          0x00000000        0x0 c:/gcc-arm-9.2-2019.12/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crtend.o
+ .data          0x00000000        0x0 c:/gcc-arm-9.2-2019.12/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crtend.o
+ .bss           0x00000000        0x0 c:/gcc-arm-9.2-2019.12/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crtend.o
+ .rodata        0x00000000       0x24 c:/gcc-arm-9.2-2019.12/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crtend.o
+ .eh_frame      0x00000000        0x4 c:/gcc-arm-9.2-2019.12/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crtend.o
+ .ARM.attributes
+                0x00000000       0x2d c:/gcc-arm-9.2-2019.12/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crtend.o
+ .text          0x00000000        0x0 c:/gcc-arm-9.2-2019.12/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crtn.o
+ .data          0x00000000        0x0 c:/gcc-arm-9.2-2019.12/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crtn.o
+ .bss           0x00000000        0x0 c:/gcc-arm-9.2-2019.12/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crtn.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+RAM              0x20000000         0x00005000         xrw
+FLASH            0x08000000         0x00010000         xr
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD c:/gcc-arm-9.2-2019.12/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crti.o
+LOAD c:/gcc-arm-9.2-2019.12/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crtbegin.o
+LOAD c:/gcc-arm-9.2-2019.12/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/crt0.o
+LOAD CMakeFiles/My_LED_Pro.elf.dir/Core/Src/main.c.obj
+LOAD CMakeFiles/My_LED_Pro.elf.dir/Core/Src/stm32f1xx_hal_msp.c.obj
+LOAD CMakeFiles/My_LED_Pro.elf.dir/Core/Src/stm32f1xx_it.c.obj
+LOAD CMakeFiles/My_LED_Pro.elf.dir/Core/Src/syscalls.c.obj
+LOAD CMakeFiles/My_LED_Pro.elf.dir/Core/Src/system_stm32f1xx.c.obj
+LOAD CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+LOAD CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+LOAD CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+LOAD CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj
+LOAD CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+LOAD CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+LOAD CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+LOAD CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c.obj
+LOAD CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+LOAD CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+LOAD CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.obj
+LOAD CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+LOAD CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
+LOAD CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+LOAD CMakeFiles/My_LED_Pro.elf.dir/startup/startup_stm32f103xb.s.obj
+START GROUP
+LOAD c:/gcc-arm-9.2-2019.12/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp\libgcc.a
+LOAD c:/gcc-arm-9.2-2019.12/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a
+LOAD c:/gcc-arm-9.2-2019.12/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libc_nano.a
+END GROUP
+START GROUP
+LOAD c:/gcc-arm-9.2-2019.12/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp\libgcc.a
+LOAD c:/gcc-arm-9.2-2019.12/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libc_nano.a
+LOAD c:/gcc-arm-9.2-2019.12/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libnosys.a
+END GROUP
+START GROUP
+LOAD c:/gcc-arm-9.2-2019.12/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp\libgcc.a
+LOAD c:/gcc-arm-9.2-2019.12/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libc_nano.a
+LOAD c:/gcc-arm-9.2-2019.12/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libnosys.a
+END GROUP
+LOAD c:/gcc-arm-9.2-2019.12/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crtend.o
+LOAD c:/gcc-arm-9.2-2019.12/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crtn.o
+                0x20005000                _estack = (ORIGIN (RAM) + LENGTH (RAM))
+                0x00000200                _Min_Heap_Size = 0x200
+                0x00000400                _Min_Stack_Size = 0x400
+
+.isr_vector     0x08000000      0x10c
+                0x08000000                . = ALIGN (0x4)
+ *(.isr_vector)
+ .isr_vector    0x08000000      0x10c CMakeFiles/My_LED_Pro.elf.dir/startup/startup_stm32f103xb.s.obj
+                0x08000000                g_pfnVectors
+                0x0800010c                . = ALIGN (0x4)
+
+.text           0x0800010c     0x1afc
+                0x0800010c                . = ALIGN (0x4)
+ *(.text)
+ .text          0x0800010c       0x40 c:/gcc-arm-9.2-2019.12/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crtbegin.o
+ *(.text*)
+ .text.main     0x0800014c       0x1a CMakeFiles/My_LED_Pro.elf.dir/Core/Src/main.c.obj
+                0x0800014c                main
+ .text.SystemClock_Config
+                0x08000166       0x82 CMakeFiles/My_LED_Pro.elf.dir/Core/Src/main.c.obj
+                0x08000166                SystemClock_Config
+ .text.MX_TIM1_Init
+                0x080001e8       0xd0 CMakeFiles/My_LED_Pro.elf.dir/Core/Src/main.c.obj
+ .text.MX_USART1_UART_Init
+                0x080002b8       0x54 CMakeFiles/My_LED_Pro.elf.dir/Core/Src/main.c.obj
+ .text.MX_GPIO_Init
+                0x0800030c       0x80 CMakeFiles/My_LED_Pro.elf.dir/Core/Src/main.c.obj
+ .text.Error_Handler
+                0x0800038c        0xa CMakeFiles/My_LED_Pro.elf.dir/Core/Src/main.c.obj
+                0x0800038c                Error_Handler
+ *fill*         0x08000396        0x2 
+ .text.HAL_MspInit
+                0x08000398       0x64 CMakeFiles/My_LED_Pro.elf.dir/Core/Src/stm32f1xx_hal_msp.c.obj
+                0x08000398                HAL_MspInit
+ .text.HAL_TIM_Base_MspInit
+                0x080003fc       0x3c CMakeFiles/My_LED_Pro.elf.dir/Core/Src/stm32f1xx_hal_msp.c.obj
+                0x080003fc                HAL_TIM_Base_MspInit
+ .text.HAL_UART_MspInit
+                0x08000438       0x98 CMakeFiles/My_LED_Pro.elf.dir/Core/Src/stm32f1xx_hal_msp.c.obj
+                0x08000438                HAL_UART_MspInit
+ .text.NMI_Handler
+                0x080004d0        0x6 CMakeFiles/My_LED_Pro.elf.dir/Core/Src/stm32f1xx_it.c.obj
+                0x080004d0                NMI_Handler
+ .text.HardFault_Handler
+                0x080004d6        0x6 CMakeFiles/My_LED_Pro.elf.dir/Core/Src/stm32f1xx_it.c.obj
+                0x080004d6                HardFault_Handler
+ .text.MemManage_Handler
+                0x080004dc        0x6 CMakeFiles/My_LED_Pro.elf.dir/Core/Src/stm32f1xx_it.c.obj
+                0x080004dc                MemManage_Handler
+ .text.BusFault_Handler
+                0x080004e2        0x6 CMakeFiles/My_LED_Pro.elf.dir/Core/Src/stm32f1xx_it.c.obj
+                0x080004e2                BusFault_Handler
+ .text.UsageFault_Handler
+                0x080004e8        0x6 CMakeFiles/My_LED_Pro.elf.dir/Core/Src/stm32f1xx_it.c.obj
+                0x080004e8                UsageFault_Handler
+ .text.SVC_Handler
+                0x080004ee        0xc CMakeFiles/My_LED_Pro.elf.dir/Core/Src/stm32f1xx_it.c.obj
+                0x080004ee                SVC_Handler
+ .text.DebugMon_Handler
+                0x080004fa        0xc CMakeFiles/My_LED_Pro.elf.dir/Core/Src/stm32f1xx_it.c.obj
+                0x080004fa                DebugMon_Handler
+ .text.PendSV_Handler
+                0x08000506        0xc CMakeFiles/My_LED_Pro.elf.dir/Core/Src/stm32f1xx_it.c.obj
+                0x08000506                PendSV_Handler
+ .text.SysTick_Handler
+                0x08000512        0xc CMakeFiles/My_LED_Pro.elf.dir/Core/Src/stm32f1xx_it.c.obj
+                0x08000512                SysTick_Handler
+ .text.SystemInit
+                0x0800051e        0xc CMakeFiles/My_LED_Pro.elf.dir/Core/Src/system_stm32f1xx.c.obj
+                0x0800051e                SystemInit
+ *fill*         0x0800052a        0x2 
+ .text.HAL_Init
+                0x0800052c       0x2c CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+                0x0800052c                HAL_Init
+ .text.HAL_InitTick
+                0x08000558       0x60 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+                0x08000558                HAL_InitTick
+ .text.HAL_IncTick
+                0x080005b8       0x24 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+                0x080005b8                HAL_IncTick
+ .text.HAL_GetTick
+                0x080005dc       0x14 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+                0x080005dc                HAL_GetTick
+ .text.__NVIC_SetPriorityGrouping
+                0x080005f0       0x48 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .text.__NVIC_GetPriorityGrouping
+                0x08000638       0x1c CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .text.__NVIC_SetPriority
+                0x08000654       0x54 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .text.NVIC_EncodePriority
+                0x080006a8       0x64 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .text.SysTick_Config
+                0x0800070c       0x44 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .text.HAL_NVIC_SetPriorityGrouping
+                0x08000750       0x16 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+                0x08000750                HAL_NVIC_SetPriorityGrouping
+ .text.HAL_NVIC_SetPriority
+                0x08000766       0x38 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+                0x08000766                HAL_NVIC_SetPriority
+ .text.HAL_SYSTICK_Config
+                0x0800079e       0x18 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+                0x0800079e                HAL_SYSTICK_Config
+ *fill*         0x080007b6        0x2 
+ .text.HAL_GPIO_Init
+                0x080007b8      0x308 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+                0x080007b8                HAL_GPIO_Init
+ .text.HAL_GPIO_WritePin
+                0x08000ac0       0x30 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+                0x08000ac0                HAL_GPIO_WritePin
+ .text.HAL_RCC_OscConfig
+                0x08000af0      0x504 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+                0x08000af0                HAL_RCC_OscConfig
+ .text.HAL_RCC_ClockConfig
+                0x08000ff4      0x1d4 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+                0x08000ff4                HAL_RCC_ClockConfig
+ .text.HAL_RCC_GetSysClockFreq
+                0x080011c8       0xa8 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+                0x080011c8                HAL_RCC_GetSysClockFreq
+ .text.HAL_RCC_GetHCLKFreq
+                0x08001270       0x14 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+                0x08001270                HAL_RCC_GetHCLKFreq
+ .text.HAL_RCC_GetPCLK1Freq
+                0x08001284       0x28 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+                0x08001284                HAL_RCC_GetPCLK1Freq
+ .text.HAL_RCC_GetPCLK2Freq
+                0x080012ac       0x28 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+                0x080012ac                HAL_RCC_GetPCLK2Freq
+ .text.RCC_Delay
+                0x080012d4       0x3c CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+ .text.HAL_TIM_Base_Init
+                0x08001310       0x9e CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+                0x08001310                HAL_TIM_Base_Init
+ .text.HAL_TIM_ConfigClockSource
+                0x080013ae      0x18e CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+                0x080013ae                HAL_TIM_ConfigClockSource
+ .text.HAL_TIM_SlaveConfigSynchro
+                0x0800153c       0x84 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+                0x0800153c                HAL_TIM_SlaveConfigSynchro
+ .text.TIM_Base_SetConfig
+                0x080015c0       0xc4 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+                0x080015c0                TIM_Base_SetConfig
+ .text.TIM_SlaveTimer_SetConfig
+                0x08001684      0x122 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.TIM_TI1_ConfigInputStage
+                0x080017a6       0x5c CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.TIM_TI2_ConfigInputStage
+                0x08001802       0x5e CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.TIM_ITRx_SetConfig
+                0x08001860       0x34 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.TIM_ETR_SetConfig
+                0x08001894       0x3e CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+                0x08001894                TIM_ETR_SetConfig
+ *fill*         0x080018d2        0x2 
+ .text.HAL_TIMEx_MasterConfigSynchronization
+                0x080018d4       0xbc CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
+                0x080018d4                HAL_TIMEx_MasterConfigSynchronization
+ .text.HAL_UART_Init
+                0x08001990       0xa0 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+                0x08001990                HAL_UART_Init
+ .text.UART_SetConfig
+                0x08001a30      0x11c CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .text.Reset_Handler
+                0x08001b4c       0x48 CMakeFiles/My_LED_Pro.elf.dir/startup/startup_stm32f103xb.s.obj
+                0x08001b4c                Reset_Handler
+ .text.Default_Handler
+                0x08001b94        0x2 CMakeFiles/My_LED_Pro.elf.dir/startup/startup_stm32f103xb.s.obj
+                0x08001b94                RTC_Alarm_IRQHandler
+                0x08001b94                EXTI2_IRQHandler
+                0x08001b94                TIM1_CC_IRQHandler
+                0x08001b94                PVD_IRQHandler
+                0x08001b94                EXTI3_IRQHandler
+                0x08001b94                EXTI0_IRQHandler
+                0x08001b94                I2C2_EV_IRQHandler
+                0x08001b94                ADC1_2_IRQHandler
+                0x08001b94                SPI1_IRQHandler
+                0x08001b94                TAMPER_IRQHandler
+                0x08001b94                DMA1_Channel4_IRQHandler
+                0x08001b94                USART3_IRQHandler
+                0x08001b94                RTC_IRQHandler
+                0x08001b94                DMA1_Channel7_IRQHandler
+                0x08001b94                CAN1_RX1_IRQHandler
+                0x08001b94                TIM4_IRQHandler
+                0x08001b94                I2C1_EV_IRQHandler
+                0x08001b94                DMA1_Channel6_IRQHandler
+                0x08001b94                TIM3_IRQHandler
+                0x08001b94                RCC_IRQHandler
+                0x08001b94                TIM1_TRG_COM_IRQHandler
+                0x08001b94                DMA1_Channel1_IRQHandler
+                0x08001b94                Default_Handler
+                0x08001b94                EXTI15_10_IRQHandler
+                0x08001b94                EXTI9_5_IRQHandler
+                0x08001b94                SPI2_IRQHandler
+                0x08001b94                DMA1_Channel5_IRQHandler
+                0x08001b94                EXTI4_IRQHandler
+                0x08001b94                USB_LP_CAN1_RX0_IRQHandler
+                0x08001b94                USB_HP_CAN1_TX_IRQHandler
+                0x08001b94                DMA1_Channel3_IRQHandler
+                0x08001b94                TIM1_UP_IRQHandler
+                0x08001b94                WWDG_IRQHandler
+                0x08001b94                TIM2_IRQHandler
+                0x08001b94                TIM1_BRK_IRQHandler
+                0x08001b94                EXTI1_IRQHandler
+                0x08001b94                USART2_IRQHandler
+                0x08001b94                I2C2_ER_IRQHandler
+                0x08001b94                DMA1_Channel2_IRQHandler
+                0x08001b94                CAN1_SCE_IRQHandler
+                0x08001b94                FLASH_IRQHandler
+                0x08001b94                USART1_IRQHandler
+                0x08001b94                I2C1_ER_IRQHandler
+                0x08001b94                USBWakeUp_IRQHandler
+ *fill*         0x08001b96        0x2 
+ .text.__libc_init_array
+                0x08001b98       0x48 c:/gcc-arm-9.2-2019.12/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(lib_a-init.o)
+                0x08001b98                __libc_init_array
+ .text.memset   0x08001be0       0x10 c:/gcc-arm-9.2-2019.12/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(lib_a-memset.o)
+                0x08001be0                memset
+ *(.glue_7)
+ .glue_7        0x08001bf0        0x0 linker stubs
+ *(.glue_7t)
+ .glue_7t       0x08001bf0        0x0 linker stubs
+ *(.eh_frame)
+ .eh_frame      0x08001bf0        0x0 c:/gcc-arm-9.2-2019.12/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crtbegin.o
+ *(.init)
+ .init          0x08001bf0        0x4 c:/gcc-arm-9.2-2019.12/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crti.o
+                0x08001bf0                _init
+ .init          0x08001bf4        0x8 c:/gcc-arm-9.2-2019.12/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crtn.o
+ *(.fini)
+ .fini          0x08001bfc        0x4 c:/gcc-arm-9.2-2019.12/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crti.o
+                0x08001bfc                _fini
+ .fini          0x08001c00        0x8 c:/gcc-arm-9.2-2019.12/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crtn.o
+                0x08001c08                . = ALIGN (0x4)
+                0x08001c08                _etext = .
+
+.vfp11_veneer   0x08001c08        0x0
+ .vfp11_veneer  0x08001c08        0x0 linker stubs
+
+.v4_bx          0x08001c08        0x0
+ .v4_bx         0x08001c08        0x0 linker stubs
+
+.iplt           0x08001c08        0x0
+ .iplt          0x08001c08        0x0 c:/gcc-arm-9.2-2019.12/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crtbegin.o
+
+.rodata         0x08001c08       0x2c
+                0x08001c08                . = ALIGN (0x4)
+ *(.rodata)
+ *(.rodata*)
+ .rodata.AHBPrescTable
+                0x08001c08       0x10 CMakeFiles/My_LED_Pro.elf.dir/Core/Src/system_stm32f1xx.c.obj
+                0x08001c08                AHBPrescTable
+ .rodata.APBPrescTable
+                0x08001c18        0x8 CMakeFiles/My_LED_Pro.elf.dir/Core/Src/system_stm32f1xx.c.obj
+                0x08001c18                APBPrescTable
+ .rodata.aPLLMULFactorTable.1
+                0x08001c20       0x10 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+ .rodata.aPredivFactorTable.0
+                0x08001c30        0x2 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+                0x08001c34                . = ALIGN (0x4)
+ *fill*         0x08001c32        0x2 
+
+.rel.dyn        0x08001c34        0x0
+ .rel.iplt      0x08001c34        0x0 c:/gcc-arm-9.2-2019.12/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crtbegin.o
+
+.ARM.extab
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+
+.ARM            0x08001c34        0x0
+                0x08001c34                __exidx_start = .
+ *(.ARM.exidx*)
+                0x08001c34                __exidx_end = .
+
+.preinit_array  0x08001c34        0x0
+                0x08001c34                PROVIDE (__preinit_array_start = .)
+ *(.preinit_array*)
+                0x08001c34                PROVIDE (__preinit_array_end = .)
+
+.init_array     0x08001c34        0x4
+                0x08001c34                PROVIDE (__init_array_start = .)
+ *(SORT_BY_NAME(.init_array.*))
+ *(.init_array*)
+ .init_array    0x08001c34        0x4 c:/gcc-arm-9.2-2019.12/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crtbegin.o
+                0x08001c38                PROVIDE (__init_array_end = .)
+
+.fini_array     0x08001c38        0x4
+                [!provide]                PROVIDE (__fini_array_start = .)
+ *(SORT_BY_NAME(.fini_array.*))
+ *(.fini_array*)
+ .fini_array    0x08001c38        0x4 c:/gcc-arm-9.2-2019.12/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crtbegin.o
+                [!provide]                PROVIDE (__fini_array_end = .)
+                0x08001c3c                _sidata = LOADADDR (.data)
+
+.data           0x20000000        0xc load address 0x08001c3c
+                0x20000000                . = ALIGN (0x4)
+                0x20000000                _sdata = .
+ *(.data)
+ *(.data*)
+ .data.SystemCoreClock
+                0x20000000        0x4 CMakeFiles/My_LED_Pro.elf.dir/Core/Src/system_stm32f1xx.c.obj
+                0x20000000                SystemCoreClock
+ .data.uwTickPrio
+                0x20000004        0x4 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+                0x20000004                uwTickPrio
+ .data.uwTickFreq
+                0x20000008        0x1 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+                0x20000008                uwTickFreq
+                0x2000000c                . = ALIGN (0x4)
+ *fill*         0x20000009        0x3 
+                0x2000000c                _edata = .
+
+.igot.plt       0x2000000c        0x0 load address 0x08001c48
+ .igot.plt      0x2000000c        0x0 c:/gcc-arm-9.2-2019.12/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crtbegin.o
+                0x2000000c                . = ALIGN (0x4)
+
+.bss            0x2000000c       0xb0 load address 0x08001c48
+                0x2000000c                _sbss = .
+                0x2000000c                __bss_start__ = _sbss
+ *(.bss)
+ .bss           0x2000000c       0x1c c:/gcc-arm-9.2-2019.12/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crtbegin.o
+ *(.bss*)
+ .bss.htim1     0x20000028       0x48 CMakeFiles/My_LED_Pro.elf.dir/Core/Src/main.c.obj
+                0x20000028                htim1
+ .bss.huart1    0x20000070       0x48 CMakeFiles/My_LED_Pro.elf.dir/Core/Src/main.c.obj
+                0x20000070                huart1
+ .bss.uwTick    0x200000b8        0x4 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+                0x200000b8                uwTick
+ *(COMMON)
+                0x200000bc                . = ALIGN (0x4)
+                0x200000bc                _ebss = .
+                0x200000bc                __bss_end__ = _ebss
+
+._user_heap_stack
+                0x200000bc      0x604 load address 0x08001c48
+                0x200000c0                . = ALIGN (0x8)
+ *fill*         0x200000bc        0x4 
+                0x200000c0                PROVIDE (end = .)
+                [!provide]                PROVIDE (_end = .)
+                0x200002c0                . = (. + _Min_Heap_Size)
+ *fill*         0x200000c0      0x200 
+                0x200006c0                . = (. + _Min_Stack_Size)
+ *fill*         0x200002c0      0x400 
+                0x200006c0                . = ALIGN (0x8)
+
+/DISCARD/
+ libc.a(*)
+ libm.a(*)
+ libgcc.a(*)
+
+.ARM.attributes
+                0x00000000       0x29
+ *(.ARM.attributes)
+ .ARM.attributes
+                0x00000000       0x1d c:/gcc-arm-9.2-2019.12/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crti.o
+ .ARM.attributes
+                0x0000001d       0x2d c:/gcc-arm-9.2-2019.12/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crtbegin.o
+ .ARM.attributes
+                0x0000004a       0x2d CMakeFiles/My_LED_Pro.elf.dir/Core/Src/main.c.obj
+ .ARM.attributes
+                0x00000077       0x2d CMakeFiles/My_LED_Pro.elf.dir/Core/Src/stm32f1xx_hal_msp.c.obj
+ .ARM.attributes
+                0x000000a4       0x2d CMakeFiles/My_LED_Pro.elf.dir/Core/Src/stm32f1xx_it.c.obj
+ .ARM.attributes
+                0x000000d1       0x2d CMakeFiles/My_LED_Pro.elf.dir/Core/Src/system_stm32f1xx.c.obj
+ .ARM.attributes
+                0x000000fe       0x2d CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .ARM.attributes
+                0x0000012b       0x2d CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .ARM.attributes
+                0x00000158       0x2d CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+ .ARM.attributes
+                0x00000185       0x2d CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+ .ARM.attributes
+                0x000001b2       0x2d CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .ARM.attributes
+                0x000001df       0x2d CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
+ .ARM.attributes
+                0x0000020c       0x2d CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .ARM.attributes
+                0x00000239       0x21 CMakeFiles/My_LED_Pro.elf.dir/startup/startup_stm32f103xb.s.obj
+ .ARM.attributes
+                0x0000025a       0x2d c:/gcc-arm-9.2-2019.12/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(lib_a-init.o)
+ .ARM.attributes
+                0x00000287       0x2d c:/gcc-arm-9.2-2019.12/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(lib_a-memset.o)
+ .ARM.attributes
+                0x000002b4       0x1d c:/gcc-arm-9.2-2019.12/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crtn.o
+OUTPUT(My_LED_Pro.elf elf32-littlearm)
+LOAD linker stubs
+LOAD c:/gcc-arm-9.2-2019.12/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libc.a
+LOAD c:/gcc-arm-9.2-2019.12/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libm.a
+LOAD c:/gcc-arm-9.2-2019.12/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp\libgcc.a
+
+.debug_info     0x00000000     0xad6d
+ .debug_info    0x00000000      0xd76 CMakeFiles/My_LED_Pro.elf.dir/Core/Src/main.c.obj
+ .debug_info    0x00000d76      0xbd5 CMakeFiles/My_LED_Pro.elf.dir/Core/Src/stm32f1xx_hal_msp.c.obj
+ .debug_info    0x0000194b      0x10e CMakeFiles/My_LED_Pro.elf.dir/Core/Src/stm32f1xx_it.c.obj
+ .debug_info    0x00001a59      0x232 CMakeFiles/My_LED_Pro.elf.dir/Core/Src/system_stm32f1xx.c.obj
+ .debug_info    0x00001c8b      0x6d6 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .debug_info    0x00002361      0xb15 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .debug_info    0x00002e76      0x60a CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+ .debug_info    0x00003480      0x813 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+ .debug_info    0x00003c93     0x2b1b CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .debug_info    0x000067ae     0x1488 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
+ .debug_info    0x00007c36     0x3115 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .debug_info    0x0000ad4b       0x22 CMakeFiles/My_LED_Pro.elf.dir/startup/startup_stm32f103xb.s.obj
+
+.debug_abbrev   0x00000000     0x154a
+ .debug_abbrev  0x00000000      0x20a CMakeFiles/My_LED_Pro.elf.dir/Core/Src/main.c.obj
+ .debug_abbrev  0x0000020a      0x1b2 CMakeFiles/My_LED_Pro.elf.dir/Core/Src/stm32f1xx_hal_msp.c.obj
+ .debug_abbrev  0x000003bc       0x5e CMakeFiles/My_LED_Pro.elf.dir/Core/Src/stm32f1xx_it.c.obj
+ .debug_abbrev  0x0000041a      0x138 CMakeFiles/My_LED_Pro.elf.dir/Core/Src/system_stm32f1xx.c.obj
+ .debug_abbrev  0x00000552      0x1c5 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .debug_abbrev  0x00000717      0x2ea CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .debug_abbrev  0x00000a01      0x1b8 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+ .debug_abbrev  0x00000bb9      0x25d CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+ .debug_abbrev  0x00000e16      0x235 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .debug_abbrev  0x0000104b      0x23d CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
+ .debug_abbrev  0x00001288      0x2b0 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .debug_abbrev  0x00001538       0x12 CMakeFiles/My_LED_Pro.elf.dir/startup/startup_stm32f103xb.s.obj
+
+.debug_aranges  0x00000000      0xb40
+ .debug_aranges
+                0x00000000       0x48 CMakeFiles/My_LED_Pro.elf.dir/Core/Src/main.c.obj
+ .debug_aranges
+                0x00000048       0x40 CMakeFiles/My_LED_Pro.elf.dir/Core/Src/stm32f1xx_hal_msp.c.obj
+ .debug_aranges
+                0x00000088       0x60 CMakeFiles/My_LED_Pro.elf.dir/Core/Src/stm32f1xx_it.c.obj
+ .debug_aranges
+                0x000000e8       0x28 CMakeFiles/My_LED_Pro.elf.dir/Core/Src/system_stm32f1xx.c.obj
+ .debug_aranges
+                0x00000110       0xe0 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .debug_aranges
+                0x000001f0      0x100 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .debug_aranges
+                0x000002f0       0x58 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+ .debug_aranges
+                0x00000348       0x90 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+ .debug_aranges
+                0x000003d8      0x3d0 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .debug_aranges
+                0x000007a8      0x168 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
+ .debug_aranges
+                0x00000910      0x208 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .debug_aranges
+                0x00000b18       0x28 CMakeFiles/My_LED_Pro.elf.dir/startup/startup_stm32f103xb.s.obj
+
+.debug_ranges   0x00000000      0xab8
+ .debug_ranges  0x00000000       0x38 CMakeFiles/My_LED_Pro.elf.dir/Core/Src/main.c.obj
+ .debug_ranges  0x00000038       0x30 CMakeFiles/My_LED_Pro.elf.dir/Core/Src/stm32f1xx_hal_msp.c.obj
+ .debug_ranges  0x00000068       0x50 CMakeFiles/My_LED_Pro.elf.dir/Core/Src/stm32f1xx_it.c.obj
+ .debug_ranges  0x000000b8       0x18 CMakeFiles/My_LED_Pro.elf.dir/Core/Src/system_stm32f1xx.c.obj
+ .debug_ranges  0x000000d0       0xd0 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .debug_ranges  0x000001a0       0xf0 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .debug_ranges  0x00000290       0x48 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+ .debug_ranges  0x000002d8       0x80 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+ .debug_ranges  0x00000358      0x3c0 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .debug_ranges  0x00000718      0x158 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
+ .debug_ranges  0x00000870      0x228 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .debug_ranges  0x00000a98       0x20 CMakeFiles/My_LED_Pro.elf.dir/startup/startup_stm32f103xb.s.obj
+
+.debug_line     0x00000000     0x8c49
+ .debug_line    0x00000000      0x3e9 CMakeFiles/My_LED_Pro.elf.dir/Core/Src/main.c.obj
+ .debug_line    0x000003e9      0x2c0 CMakeFiles/My_LED_Pro.elf.dir/Core/Src/stm32f1xx_hal_msp.c.obj
+ .debug_line    0x000006a9      0x133 CMakeFiles/My_LED_Pro.elf.dir/Core/Src/stm32f1xx_it.c.obj
+ .debug_line    0x000007dc      0x21f CMakeFiles/My_LED_Pro.elf.dir/Core/Src/system_stm32f1xx.c.obj
+ .debug_line    0x000009fb      0x506 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .debug_line    0x00000f01      0x66f CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .debug_line    0x00001570      0x53d CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+ .debug_line    0x00001aad      0x919 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+ .debug_line    0x000023c6     0x2f54 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .debug_line    0x0000531a     0x1439 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
+ .debug_line    0x00006753     0x244d CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .debug_line    0x00008ba0       0xa9 CMakeFiles/My_LED_Pro.elf.dir/startup/startup_stm32f103xb.s.obj
+
+.debug_str      0x00000000     0x35d5
+ .debug_str     0x00000000      0xb1f CMakeFiles/My_LED_Pro.elf.dir/Core/Src/main.c.obj
+                                0xc08 (size before relaxing)
+ .debug_str     0x00000b1f       0xe4 CMakeFiles/My_LED_Pro.elf.dir/Core/Src/stm32f1xx_hal_msp.c.obj
+                                0x9db (size before relaxing)
+ .debug_str     0x00000c03       0xd5 CMakeFiles/My_LED_Pro.elf.dir/Core/Src/stm32f1xx_it.c.obj
+                                0x258 (size before relaxing)
+ .debug_str     0x00000cd8       0xa8 CMakeFiles/My_LED_Pro.elf.dir/Core/Src/system_stm32f1xx.c.obj
+                                0x296 (size before relaxing)
+ .debug_str     0x00000d80      0x5f2 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+                                0x821 (size before relaxing)
+ .debug_str     0x00001372      0x434 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+                                0x915 (size before relaxing)
+ .debug_str     0x000017a6      0x174 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+                                0x442 (size before relaxing)
+ .debug_str     0x0000191a      0x244 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+                                0x646 (size before relaxing)
+ .debug_str     0x00001b5e      0xe2a CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+                               0x162e (size before relaxing)
+ .debug_str     0x00002988      0x5a5 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
+                                0xddf (size before relaxing)
+ .debug_str     0x00002f2d      0x64f CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+                                0xcbf (size before relaxing)
+ .debug_str     0x0000357c       0x59 CMakeFiles/My_LED_Pro.elf.dir/startup/startup_stm32f103xb.s.obj
+                                 0x98 (size before relaxing)
+
+.comment        0x00000000       0x49
+ .comment       0x00000000       0x49 CMakeFiles/My_LED_Pro.elf.dir/Core/Src/main.c.obj
+                                 0x4a (size before relaxing)
+ .comment       0x00000049       0x4a CMakeFiles/My_LED_Pro.elf.dir/Core/Src/stm32f1xx_hal_msp.c.obj
+ .comment       0x00000049       0x4a CMakeFiles/My_LED_Pro.elf.dir/Core/Src/stm32f1xx_it.c.obj
+ .comment       0x00000049       0x4a CMakeFiles/My_LED_Pro.elf.dir/Core/Src/system_stm32f1xx.c.obj
+ .comment       0x00000049       0x4a CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .comment       0x00000049       0x4a CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .comment       0x00000049       0x4a CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+ .comment       0x00000049       0x4a CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+ .comment       0x00000049       0x4a CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .comment       0x00000049       0x4a CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
+ .comment       0x00000049       0x4a CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+
+.debug_frame    0x00000000     0x2f3c
+ .debug_frame   0x00000000       0xcc CMakeFiles/My_LED_Pro.elf.dir/Core/Src/main.c.obj
+ .debug_frame   0x000000cc       0xd0 CMakeFiles/My_LED_Pro.elf.dir/Core/Src/stm32f1xx_hal_msp.c.obj
+ .debug_frame   0x0000019c      0x104 CMakeFiles/My_LED_Pro.elf.dir/Core/Src/stm32f1xx_it.c.obj
+ .debug_frame   0x000002a0       0x58 CMakeFiles/My_LED_Pro.elf.dir/Core/Src/system_stm32f1xx.c.obj
+ .debug_frame   0x000002f8      0x334 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .debug_frame   0x0000062c      0x428 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .debug_frame   0x00000a54      0x14c CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+ .debug_frame   0x00000ba0      0x218 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+ .debug_frame   0x00000db8     0x11bc CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .debug_frame   0x00001f74      0x638 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
+ .debug_frame   0x000025ac      0x944 CMakeFiles/My_LED_Pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .debug_frame   0x00002ef0       0x2c c:/gcc-arm-9.2-2019.12/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(lib_a-init.o)
+ .debug_frame   0x00002f1c       0x20 c:/gcc-arm-9.2-2019.12/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(lib_a-memset.o)
