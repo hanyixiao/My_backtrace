@@ -1,5 +1,6 @@
 {
     "files.associations": {
-        "cmb_zh_cn.h": "c"
+        "cmb_zh_cn.h": "c",
+        "stdarg.h": "c"
     }
 }

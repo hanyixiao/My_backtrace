@@ -2,6 +2,14 @@
 #include "stdint.h"
 #include "stdarg.h"
 
+#define LOG_BUFF_SIZE 1024
+struct log_buffer
+{
+  uint8_t data[LOG_BUFF_SIZE];
+  uint16_t write_pos;
+  uint16_t read_pos;
+}log_buff;
+
 static UART_HandleTypeDef *s_uart_handle=NULL;
 static const char *const g_pcHex = "0123456789abcdef";
 
@@ -15,7 +23,30 @@ void uart_printf_init(UART_HandleTypeDef *handle)
 }
 void UART_putc(uint8_t data)
 {
+#ifdef LOG_PRINT_SYN
 	HAL_UART_Transmit(s_uart_handle,&data,sizeof(data),0xff);
+#else
+    log_buff.data[log_buff.write_pos++] = data;
+    if(log_buff.write_pos >= LOG_BUFF_SIZE)
+    {
+        log_buff.write_pos= 0;
+    }
+#endif    
+}
+
+void log_buffer_flash()
+{
+    uint8_t data = 0;
+    while(log_buff.read_pos != log_buff.write_pos)
+    {
+        data = log_buff.data[log_buff.read_pos++];
+        HAL_UART_Transmit(s_uart_handle,&data,sizeof(data),0xff);
+        
+        if(log_buff.read_pos>=LOG_BUFF_SIZE)
+        {
+            log_buff.read_pos= 0;
+        }
+    }
 }
 
 int32_t UART_dataWrite(const char *pcBuf, uint32_t ulLen)

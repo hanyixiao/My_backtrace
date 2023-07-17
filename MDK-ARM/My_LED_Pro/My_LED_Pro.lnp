@@ -1,10 +1,10 @@
 --cpu Cortex-M3
 "my_led_pro\startup_stm32f103xb.o"
+"my_led_pro\uart_stdio.o"
 "my_led_pro\main.o"
 "my_led_pro\freertos.o"
 "my_led_pro\stm32f1xx_it.o"
 "my_led_pro\stm32f1xx_hal_msp.o"
-"my_led_pro\uart_stdio.o"
 "my_led_pro\stm32f1xx_hal_gpio_ex.o"
 "my_led_pro\stm32f1xx_hal.o"
 "my_led_pro\stm32f1xx_hal_rcc.o"
@@ -30,8 +30,6 @@
 "my_led_pro\cmsis_os2.o"
 "my_led_pro\heap_4.o"
 "my_led_pro\port.o"
-"my_led_pro\cm_backtrace.o"
-"my_led_pro\cmb_fault.o"
 --strict --scatter "My_LED_Pro\My_LED_Pro.sct"
 --summary_stderr --info summarysizes --map --load_addr_map_info --xref --callgraph --symbols
 --info sizes --info totals --info unused --info veneers
