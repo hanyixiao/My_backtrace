@@ -1,7 +1,7 @@
 #MicroXplorer Configuration settings - do not modify
 FREERTOS.FootprintOK=true
 FREERTOS.IPParameters=Tasks01,FootprintOK,configGENERATE_RUN_TIME_STATS,configUSE_IDLE_HOOK,configUSE_STATS_FORMATTING_FUNCTIONS
-FREERTOS.Tasks01=defaultTask,40,128,StartDefaultTask,Default,NULL,Dynamic,NULL,NULL;mylogTask,8,128,StartTask02,Default,NULL,Dynamic,NULL,NULL
+FREERTOS.Tasks01=defaultTask,40,128,StartDefaultTask,Default,NULL,Dynamic,NULL,NULL;mylogTask,8,128,StartTask02,Default,NULL,Dynamic,NULL,NULL;myTask03,9,128,cpu_load,Default,NULL,Dynamic,NULL,NULL
 FREERTOS.configGENERATE_RUN_TIME_STATS=1
 FREERTOS.configUSE_IDLE_HOOK=1
 FREERTOS.configUSE_STATS_FORMATTING_FUNCTIONS=1

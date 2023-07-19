@@ -60,6 +60,13 @@ const osThreadAttr_t mylogTask_attributes = {
   .stack_size = 128 * 4,
   .priority = (osPriority_t) osPriorityLow,
 };
+/* Definitions for myTask03 */
+osThreadId_t myTask03Handle;
+const osThreadAttr_t myTask03_attributes = {
+  .name = "myTask03",
+  .stack_size = 128 * 4,
+  .priority = (osPriority_t) osPriorityLow1,
+};
 /* USER CODE BEGIN PV */
 
 /* USER CODE END PV */
@@ -73,6 +80,7 @@ static void MX_TIM3_Init(void);
 static void MX_TIM2_Init(void);
 void StartDefaultTask(void *argument);
 void StartTask02(void *argument);
+void cpu_load(void *argument);
 
 /* USER CODE BEGIN PFP */
 
@@ -81,7 +89,7 @@ void StartTask02(void *argument);
 /* Private user code ---------------------------------------------------------*/
 /* USER CODE BEGIN 0 */
 uint32_t timer1_loop = 0;
-uint32_t timer2_loop = 0;
+unsigned long timer_50us = 0;
 /* USER CODE END 0 */
 
 /**
@@ -145,12 +153,19 @@ int main(void)
   /* creation of mylogTask */
   mylogTaskHandle = osThreadNew(StartTask02, NULL, &mylogTask_attributes);
 
+  /* creation of myTask03 */
+  myTask03Handle = osThreadNew(cpu_load, NULL, &myTask03_attributes);
+
   /* USER CODE BEGIN RTOS_THREADS */
   /* add threads, ... */
   /* USER CODE END RTOS_THREADS */
 
   /* USER CODE BEGIN RTOS_EVENTS */
-  /* add events, ... */
+	//HAL_TIM_Base_Start_IT(&htim1);
+	HAL_TIM_Base_Start_IT(&htim3);
+	HAL_TIM_Base_Start_IT(&htim2); 
+
+	uart_printf_init(&huart1);
   /* USER CODE END RTOS_EVENTS */
 
   /* Start scheduler */
@@ -403,7 +418,26 @@ static void MX_GPIO_Init(void)
 }
 
 /* USER CODE BEGIN 4 */
+unsigned long getRunTimeCounterValue(void)
+{
+    return timer_50us;
+}
 
+void HAL_TIM_PeriodElapsedCallback(TIM_HandleTypeDef *htim)
+{
+  if(htim->Instance == TIM1)
+  {
+   // timer1_loop++;
+  }
+  else if(htim->Instance == TIM3)
+  {
+    timer1_loop++;
+  }
+  else if(htim->Instance == TIM2)
+  {
+    timer_50us++;
+  }
+}
 /* USER CODE END 4 */
 
 /* USER CODE BEGIN Header_StartDefaultTask */
@@ -416,22 +450,19 @@ static void MX_GPIO_Init(void)
 void StartDefaultTask(void *argument)
 {
   /* USER CODE BEGIN 5 */
-	//HAL_TIM_Base_Start_IT(&htim1);
-	HAL_TIM_Base_Start_IT(&htim3);
- 	HAL_TIM_Base_Start_IT(&htim2); 
-  uint8_t pin = GPIO_PIN_SET;
-  uart_printf_init(&huart1);
-	uint32_t time =0;
+	
   /* Infinite loop */
   for(;;)
   {
-    UART_printf("timer2 %d\r\n",timer2_loop);
-		UART_printf("hello world %d\r\n",timer1_loop-time);
-		time = timer1_loop;
-		HAL_GPIO_WritePin(GPIOC,GPIO_PIN_13,pin);
-    pin = !pin;
+    int a=0;
+    for(uint32_t i=0; i< 0xFFF;i++)
+    {
+      for(uint32_t j=0;j<0xFF;j++)
+      {
+        a+=j;
+      }
+    }
 		osDelay(100);
-	
   }
   /* USER CODE END 5 */
 }
@@ -455,6 +486,41 @@ void StartTask02(void *argument)
   /* USER CODE END StartTask02 */
 }
 
+/* USER CODE BEGIN Header_cpu_load */
+/**
+* @brief Function implementing the myTask03 thread.
+* @param argument: Not used
+* @retval None
+*/
+/* USER CODE END Header_cpu_load */
+void cpu_load(void *argument)
+{
+  /* USER CODE BEGIN cpu_load */
+  uint32_t time =0;
+  uint8_t cpu_info[256];
+	uint8_t pin = GPIO_PIN_SET;
+  /* Infinite loop */
+  for(;;)
+  {
+    UART_printf("timer2 %d\r\n",timer_50us);
+		UART_printf("hello world %d\r\n",timer1_loop-time);
+		time = timer1_loop;
+		HAL_GPIO_WritePin(GPIOC,GPIO_PIN_13,pin);
+    pin = !pin;
+    memset(&cpu_info,0,sizeof(cpu_info));
+    // UART_printf("#######cpuinfo########\r\n");
+    // // vTaskList(&cpu_info);
+    // // UART_printf("%s",cpu_info);
+    UART_printf("#######cpuload########\r\n");
+    memset(&cpu_info,0,sizeof(cpu_info));
+    vTaskGetRunTimeStats(&cpu_info);
+    UART_printf("%s",cpu_info);
+
+    osDelay(1000);
+  }
+  /* USER CODE END cpu_load */
+}
+
 /**
   * @brief  This function is executed in case of error occurrence.
   * @retval None
@@ -470,21 +536,6 @@ void Error_Handler(void)
   /* USER CODE END Error_Handler_Debug */
 }
 
-void HAL_TIM_PeriodElapsedCallback(TIM_HandleTypeDef *htim)
-{
-  if(htim->Instance == TIM1)
-  {
-   // timer1_loop++;
-  }
-  else if(htim->Instance == TIM3)
-  {
-    timer1_loop++;
-  }
-  else if(htim->Instance == TIM2)
-  {
-    timer2_loop++;
-  }
-}
 
 #ifdef  USE_FULL_ASSERT
 /**
