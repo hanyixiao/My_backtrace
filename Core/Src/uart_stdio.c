@@ -34,7 +34,7 @@ void UART_putc(uint8_t data)
 #endif    
 }
 
-void log_buffer_flash()
+void log_buffer_flush()
 {
     uint8_t data = 0;
     while(log_buff.read_pos != log_buff.write_pos)
