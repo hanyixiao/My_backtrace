@@ -462,6 +462,7 @@ void StartDefaultTask(void *argument)
         a+=j;
       }
     }
+    UART_printf("caculator  = %08x\r\n",a);
 		osDelay(100);
   }
   /* USER CODE END 5 */
