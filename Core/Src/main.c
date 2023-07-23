@@ -88,8 +88,8 @@ void cpu_load(void *argument);
 
 /* Private user code ---------------------------------------------------------*/
 /* USER CODE BEGIN 0 */
-uint32_t timer1_loop = 0;
-unsigned long timer_50us = 0;
+volatile uint32_t timer1_loop = 0;
+volatile long timer_50us = 0;
 /* USER CODE END 0 */
 
 /**
@@ -454,7 +454,9 @@ void StartDefaultTask(void *argument)
   /* Infinite loop */
   for(;;)
   {
+  
     int a=0;
+    uint32_t timer = timer1_loop;
     for(uint32_t i=0; i< 0xFFF;i++)
     {
       for(uint32_t j=0;j<0xFF;j++)
@@ -462,7 +464,7 @@ void StartDefaultTask(void *argument)
         a+=j;
       }
     }
-    UART_printf("caculator  = %08x\r\n",a);
+    UART_printf("caculator  = %08x time cost %d\r\n",a,timer1_loop-timer);
 		osDelay(100);
   }
   /* USER CODE END 5 */
